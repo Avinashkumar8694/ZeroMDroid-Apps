@@ -1,0 +1,10 @@
+# the builds are the files of a release, not of git (GitHub refuses a file over 100 MB here)
+*.dmg
+*.exe
+*.zip
+*.AppImage
+*.deb
+*.tar.gz
+*.apk
+*.aab
+.DS_Store
