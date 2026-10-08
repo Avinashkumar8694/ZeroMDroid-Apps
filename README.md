@@ -20,44 +20,44 @@ Move files between your phone and your computer over Wi-Fi, USB or a QR code, an
 
 ## Download
 
-**ZeroMDroid 1.3.0**: free with ads; a Pro licence removes the ads and the time limit. This repository only gives away the apps; the files are attached to the
-[**v1.3.0 release**](https://github.com/Avinashkumar8694/ZeroMDroid-Apps/releases/tag/v1.3.0). Press a link and the download starts.
+**ZeroMDroid 1.3.2**: free with ads; a Pro licence removes the ads and the time limit. This repository only gives away the apps; the files are attached to the
+[**v1.3.2 release**](https://github.com/Avinashkumar8694/ZeroMDroid-Apps/releases/tag/v1.3.2). Press a link and the download starts.
 
 #### macOS
 
 | For | What | Download | Size |
 |---|---|---|---|
-| **Apple silicon (M1 and newer)** | Disk image | [ZeroMDroid-1.3.0-mac-arm64.dmg](https://github.com/Avinashkumar8694/ZeroMDroid-Apps/releases/download/v1.3.0/ZeroMDroid-1.3.0-mac-arm64.dmg) | 115 MB |
-| Intel | Disk image | [ZeroMDroid-1.3.0-mac-x64.dmg](https://github.com/Avinashkumar8694/ZeroMDroid-Apps/releases/download/v1.3.0/ZeroMDroid-1.3.0-mac-x64.dmg) | 122 MB |
-| Apple silicon (M1 and newer) | Zip | [ZeroMDroid-1.3.0-mac-arm64.zip](https://github.com/Avinashkumar8694/ZeroMDroid-Apps/releases/download/v1.3.0/ZeroMDroid-1.3.0-mac-arm64.zip) | 115 MB |
-| Intel | Zip | [ZeroMDroid-1.3.0-mac-x64.zip](https://github.com/Avinashkumar8694/ZeroMDroid-Apps/releases/download/v1.3.0/ZeroMDroid-1.3.0-mac-x64.zip) | 121 MB |
+| **Apple silicon (M1 and newer)** | Disk image | [ZeroMDroid-1.3.2-mac-arm64.dmg](https://github.com/Avinashkumar8694/ZeroMDroid-Apps/releases/download/v1.3.2/ZeroMDroid-1.3.2-mac-arm64.dmg) | 115 MB |
+| Intel | Disk image | [ZeroMDroid-1.3.2-mac-x64.dmg](https://github.com/Avinashkumar8694/ZeroMDroid-Apps/releases/download/v1.3.2/ZeroMDroid-1.3.2-mac-x64.dmg) | 122 MB |
+| Apple silicon (M1 and newer) | Zip | [ZeroMDroid-1.3.2-mac-arm64.zip](https://github.com/Avinashkumar8694/ZeroMDroid-Apps/releases/download/v1.3.2/ZeroMDroid-1.3.2-mac-arm64.zip) | 115 MB |
+| Intel | Zip | [ZeroMDroid-1.3.2-mac-x64.zip](https://github.com/Avinashkumar8694/ZeroMDroid-Apps/releases/download/v1.3.2/ZeroMDroid-1.3.2-mac-x64.zip) | 121 MB |
 
 #### Windows
 
 | For | What | Download | Size |
 |---|---|---|---|
-| **64-bit Intel / AMD (most PCs)** | Installer | [ZeroMDroid-Setup-1.3.0-x64.exe](https://github.com/Avinashkumar8694/ZeroMDroid-Apps/releases/download/v1.3.0/ZeroMDroid-Setup-1.3.0-x64.exe) | 103 MB |
-| ARM64 (Snapdragon, Windows on ARM) | Installer | [ZeroMDroid-Setup-1.3.0-arm64.exe](https://github.com/Avinashkumar8694/ZeroMDroid-Apps/releases/download/v1.3.0/ZeroMDroid-Setup-1.3.0-arm64.exe) | 97.0 MB |
-| both kinds in one installer (larger) | Installer | [ZeroMDroid-Setup-1.3.0.exe](https://github.com/Avinashkumar8694/ZeroMDroid-Apps/releases/download/v1.3.0/ZeroMDroid-Setup-1.3.0.exe) | 200 MB |
-| ARM64 (Snapdragon, Windows on ARM) | Zip | [ZeroMDroid-1.3.0-win-arm64.zip](https://github.com/Avinashkumar8694/ZeroMDroid-Apps/releases/download/v1.3.0/ZeroMDroid-1.3.0-win-arm64.zip) | 140 MB |
-| 64-bit Intel / AMD (most PCs) | Zip | [ZeroMDroid-1.3.0-win-x64.zip](https://github.com/Avinashkumar8694/ZeroMDroid-Apps/releases/download/v1.3.0/ZeroMDroid-1.3.0-win-x64.zip) | 142 MB |
+| **64-bit Intel / AMD (most PCs)** | Installer | [ZeroMDroid-Setup-1.3.2-x64.exe](https://github.com/Avinashkumar8694/ZeroMDroid-Apps/releases/download/v1.3.2/ZeroMDroid-Setup-1.3.2-x64.exe) | 103 MB |
+| ARM64 (Snapdragon, Windows on ARM) | Installer | [ZeroMDroid-Setup-1.3.2-arm64.exe](https://github.com/Avinashkumar8694/ZeroMDroid-Apps/releases/download/v1.3.2/ZeroMDroid-Setup-1.3.2-arm64.exe) | 97.0 MB |
+| both kinds in one installer (larger) | Installer | [ZeroMDroid-Setup-1.3.2.exe](https://github.com/Avinashkumar8694/ZeroMDroid-Apps/releases/download/v1.3.2/ZeroMDroid-Setup-1.3.2.exe) | 200 MB |
+| ARM64 (Snapdragon, Windows on ARM) | Zip | [ZeroMDroid-1.3.2-win-arm64.zip](https://github.com/Avinashkumar8694/ZeroMDroid-Apps/releases/download/v1.3.2/ZeroMDroid-1.3.2-win-arm64.zip) | 140 MB |
+| 64-bit Intel / AMD (most PCs) | Zip | [ZeroMDroid-1.3.2-win-x64.zip](https://github.com/Avinashkumar8694/ZeroMDroid-Apps/releases/download/v1.3.2/ZeroMDroid-1.3.2-win-x64.zip) | 142 MB |
 
 #### Linux
 
 | For | What | Download | Size |
 |---|---|---|---|
-| **64-bit Intel / AMD** | AppImage | [ZeroMDroid-1.3.0-linux-x86_64.AppImage](https://github.com/Avinashkumar8694/ZeroMDroid-Apps/releases/download/v1.3.0/ZeroMDroid-1.3.0-linux-x86_64.AppImage) | 123 MB |
-| ARM64 (Raspberry Pi 4+, ARM servers) | AppImage | [ZeroMDroid-1.3.0-linux-arm64.AppImage](https://github.com/Avinashkumar8694/ZeroMDroid-Apps/releases/download/v1.3.0/ZeroMDroid-1.3.0-linux-arm64.AppImage) | 124 MB |
-| ARM64 (Raspberry Pi 4+, ARM servers) | Debian / Ubuntu package | [ZeroMDroid-1.3.0-linux-arm64.deb](https://github.com/Avinashkumar8694/ZeroMDroid-Apps/releases/download/v1.3.0/ZeroMDroid-1.3.0-linux-arm64.deb) | 93.8 MB |
-| 64-bit Intel / AMD | Debian / Ubuntu package | [ZeroMDroid-1.3.0-linux-amd64.deb](https://github.com/Avinashkumar8694/ZeroMDroid-Apps/releases/download/v1.3.0/ZeroMDroid-1.3.0-linux-amd64.deb) | 98.7 MB |
-| ARM64 (Raspberry Pi 4+, ARM servers) | Archive | [ZeroMDroid-1.3.0-linux-arm64.tar.gz](https://github.com/Avinashkumar8694/ZeroMDroid-Apps/releases/download/v1.3.0/ZeroMDroid-1.3.0-linux-arm64.tar.gz) | 118 MB |
-| 64-bit Intel / AMD | Archive | [ZeroMDroid-1.3.0-linux-x64.tar.gz](https://github.com/Avinashkumar8694/ZeroMDroid-Apps/releases/download/v1.3.0/ZeroMDroid-1.3.0-linux-x64.tar.gz) | 117 MB |
+| **64-bit Intel / AMD** | AppImage | [ZeroMDroid-1.3.2-linux-x86_64.AppImage](https://github.com/Avinashkumar8694/ZeroMDroid-Apps/releases/download/v1.3.2/ZeroMDroid-1.3.2-linux-x86_64.AppImage) | 123 MB |
+| ARM64 (Raspberry Pi 4+, ARM servers) | AppImage | [ZeroMDroid-1.3.2-linux-arm64.AppImage](https://github.com/Avinashkumar8694/ZeroMDroid-Apps/releases/download/v1.3.2/ZeroMDroid-1.3.2-linux-arm64.AppImage) | 124 MB |
+| ARM64 (Raspberry Pi 4+, ARM servers) | Debian / Ubuntu package | [ZeroMDroid-1.3.2-linux-arm64.deb](https://github.com/Avinashkumar8694/ZeroMDroid-Apps/releases/download/v1.3.2/ZeroMDroid-1.3.2-linux-arm64.deb) | 93.8 MB |
+| 64-bit Intel / AMD | Debian / Ubuntu package | [ZeroMDroid-1.3.2-linux-amd64.deb](https://github.com/Avinashkumar8694/ZeroMDroid-Apps/releases/download/v1.3.2/ZeroMDroid-1.3.2-linux-amd64.deb) | 98.7 MB |
+| ARM64 (Raspberry Pi 4+, ARM servers) | Archive | [ZeroMDroid-1.3.2-linux-arm64.tar.gz](https://github.com/Avinashkumar8694/ZeroMDroid-Apps/releases/download/v1.3.2/ZeroMDroid-1.3.2-linux-arm64.tar.gz) | 118 MB |
+| 64-bit Intel / AMD | Archive | [ZeroMDroid-1.3.2-linux-x64.tar.gz](https://github.com/Avinashkumar8694/ZeroMDroid-Apps/releases/download/v1.3.2/ZeroMDroid-1.3.2-linux-x64.tar.gz) | 117 MB |
 
 #### Android
 
 | For | What | Download | Size |
 |---|---|---|---|
-| **Android 7.0 or newer** | App (.apk) | [ZeroMDroid-1.3.0-android.apk](https://github.com/Avinashkumar8694/ZeroMDroid-Apps/releases/download/v1.3.0/ZeroMDroid-1.3.0-android.apk) | 70.9 MB |
+| **Android 7.0 or newer** | App (.apk) | [ZeroMDroid-1.3.2-android.apk](https://github.com/Avinashkumar8694/ZeroMDroid-Apps/releases/download/v1.3.2/ZeroMDroid-1.3.2-android.apk) | 70.9 MB |
 
 Not sure? On a Mac, **Apple menu → About This Mac**: a chip named *Apple M…* means Apple silicon, otherwise Intel. On Windows 10/11 most PCs are 64-bit Intel / AMD. The
 iPhone app is built but not released yet: an iPhone can already trade files with any ZeroMDroid computer through **Beam** (scan the QR code with the camera, no app needed).
@@ -106,4 +106,4 @@ be for several devices and can be moved to a new phone. **No account, and no dat
 * Something wrong, or a question: **admin@fabrixly.com**
 * Wrong picture of the app, a link that does not work? Open an issue in this repository.
 
-<sub>© Fabrixly. ZeroMDroid 1.3.0. The builds in this repository's releases are the same files the website gives away; compare the checksums if in doubt.</sub>
+<sub>© Fabrixly. ZeroMDroid 1.3.2. The builds in this repository's releases are the same files the website gives away; compare the checksums if in doubt.</sub>

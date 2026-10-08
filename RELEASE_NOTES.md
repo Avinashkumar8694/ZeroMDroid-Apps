@@ -1,4 +1,4 @@
-# ZeroMDroid 1.3.0
+# ZeroMDroid 1.3.2
 
 Free with ads; a Pro licence removes the ads and the time limit. Files between your phone and your computer over Wi-Fi, USB or a QR code, shared whiteboards, camera to computer.
 
