@@ -57,7 +57,7 @@ Move files between your phone and your computer over Wi-Fi, USB or a QR code, an
 
 | For | What | Download | Size |
 |---|---|---|---|
-| **Android 7.0 or newer** | App (.apk) | [ZeroMDroid-1.3.2-android.apk](https://github.com/Avinashkumar8694/ZeroMDroid-Apps/releases/download/v1.3.2/ZeroMDroid-1.3.2-android.apk) | 70.9 MB |
+| **Android 7.0 or newer** | Google Play | [Get it on Google Play](https://play.google.com/store/apps/details?id=com.zeromdroid.zeromdroid) | free |
 
 Not sure? On a Mac, **Apple menu → About This Mac**: a chip named *Apple M…* means Apple silicon, otherwise Intel. On Windows 10/11 most PCs are 64-bit Intel / AMD. The
 iPhone app is built but not released yet: an iPhone can already trade files with any ZeroMDroid computer through **Beam** (scan the QR code with the camera, no app needed).
@@ -71,7 +71,7 @@ iPhone app is built but not released yet: an iPhone can already trade files with
   (or *System Settings → Privacy & Security → Open Anyway*). macOS asks once to let ZeroMDroid see your Desktop, Documents and Downloads folders (and, for a pendrive, *Removable Volumes*): choose **Allow**.
 * **Windows:** run the `Setup` installer. If SmartScreen says it protected your PC, choose **More info → Run anyway** (the installer is not signed with a paid certificate yet). Allow ZeroMDroid on *private networks* when Windows Firewall asks.
 * **Linux:** *AppImage:* `chmod +x ZeroMDroid-*.AppImage` and run it. *Debian / Ubuntu:* `sudo apt install ./ZeroMDroid-*.deb`. *Archive:* unpack it anywhere and run `ZeroMDroid`.
-* **Android:** open the `.apk` on the phone and allow installing from your browser or file manager when Android asks. *Play Protect* may offer to scan it: that is fine.
+* **Android:** install it from [Google Play](https://play.google.com/store/apps/details?id=com.zeromdroid.zeromdroid).
 
 Older versions stay where they are: every one has its own page under [**Releases**](https://github.com/Avinashkumar8694/ZeroMDroid-Apps/releases).
 

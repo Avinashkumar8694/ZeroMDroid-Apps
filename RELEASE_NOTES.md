@@ -7,6 +7,6 @@ Pick the file for your system (the table in the [README](https://github.com/Avin
 * macOS: `.dmg` (Apple silicon: `arm64`, Intel: `x64`)
 * Windows: `Setup-…-x64.exe` for most PCs
 * Linux: `.AppImage` (runs anywhere), `.deb`, `.tar.gz`
-* Android: `.apk`
+* Android: [Google Play](https://play.google.com/store/apps/details?id=com.zeromdroid.zeromdroid)
 
 Website: https://zeromdroid.fabrixly.com · Privacy: https://zeromdroid.fabrixly.com/privacy · Terms: https://zeromdroid.fabrixly.com/terms · Help: admin@fabrixly.com
